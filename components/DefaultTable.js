@@ -41,7 +41,7 @@ const DefaultTable = () => {
         <div className="w-full">
             <div className="z-10 w-full bg-slate-100 p-3 items-center justify-between font-mono text-sm lg:flex">
                 <div>
-                    <div className="text-2xl">Search Job</div>
+                    <div className="text-2xl">Search Job here...</div>
                     <div className="mt-2">
                         <a
                             className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
